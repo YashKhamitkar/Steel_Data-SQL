@@ -1,3 +1,6 @@
 # Steel_Data-SQL
 
-![image](https://github.com/YashKhamitkar/Steel_Data-SQL/assets/110653237/fd955409-5df3-43dc-b706-d58c6d8564bc)
+Challenge 1
+Introduction 
+Steve runs a top-end car showroom but his data analyst has just quit and left him without his crucial insights.
+Can you analyse the following data to provide him with all the answers he requires?
